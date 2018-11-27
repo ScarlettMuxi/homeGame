@@ -1,0 +1,39 @@
+.gamePage {
+    background-color: #F56C6C;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.gamePage .numBox {
+  margin: 60rpx 0;
+}
+.gamePage .numBox .num {
+    display: inline;
+    margin-right: 16rpx;
+    padding: 10px;
+    border: 1rpx solid #fff;
+}
+.gamePage .textBox {
+    margin-top: 40rpx;
+    background-color: #fff;
+    color: #909399;
+    padding: 40rpx 20rpx;
+}
+.gamePage .textBox .title {
+  color: #606266;
+  display: block
+}
+.gamePage .textBox .text {
+    display: block;
+    text-align: left;
+    padding: 10rpx 30rpx;
+    font-size: 24rpx;
+}
+.gamePage .textBox .textI {
+    display: block;
+    text-align: left;
+    padding: 10rpx 30rpx;
+    font-size: 24rpx;
+    color: #F56C6C;
+}
